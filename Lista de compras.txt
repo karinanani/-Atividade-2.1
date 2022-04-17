@@ -1,5 +1,5 @@
 Lista de Compras:
 1.Arroz
 2.Feijão
-3.Carne
+3.Macarrão
 4.Batata
