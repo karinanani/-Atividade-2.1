@@ -2,4 +2,4 @@ Lista de Compras:
 1.Arroz
 2.Feijão
 3.Macarrão
-4.Cenoura
+4.Batata
